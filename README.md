@@ -21,7 +21,6 @@
 - SubPos – A “Dataless” Wi-Fi Positioning System by Blair Wyatt
 - Naming things is hard – fixing diversity is harder by Melissa Kaulfuss
 - Nodebots by Andrew Fisher
-- 
 - Hackathon stream 
 - Unconference stream
 - Kids stream, Code the Future and Minecraft
